@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hvxfga5z4bXecZGg29IeVaFqWDH+ewRZ5ay/cdDzod9UmqrE9dEW8hzq0zGtPWqdzLEB+Lomo1mWR4jbj09VHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\namith.muttharamar1\\Documents\\Programmering\\Komplettering\\Komplettering\\Komplettering\\Komplettering.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\namith.muttharamar1\\.nuget\\packages\\raylib-cs\\4.5.0\\raylib-cs.4.5.0.nupkg.sha512",
+    "C:\\Users\\namith.muttharamar1\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
